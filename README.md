@@ -8,5 +8,5 @@ This project requires Python and the requests package.
 First, install pipenv.  Then:
 ```
 pipenv install
-pipenv run "python find_meteors.py"
+pipenv run "meteors/python find_meteors.py"
 ```
